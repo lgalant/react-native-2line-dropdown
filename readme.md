@@ -1,3 +1,5 @@
+Added logic to allow 2 lines per item as suggested by https://github.com/n4kz/react-native-material-dropdown/issues/125
+
 [npm-badge]: https://img.shields.io/npm/v/react-native-material-dropdown.svg?colorB=ff6d00
 [npm-url]: https://npmjs.com/package/react-native-material-dropdown
 [license-badge]: https://img.shields.io/npm/l/react-native-material-dropdown.svg?colorB=448aff
